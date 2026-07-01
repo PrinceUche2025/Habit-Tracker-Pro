@@ -3,7 +3,7 @@
 A sleek, responsive, and functional React-based application designed to help users build consistency and track their daily habits seamlessly. This project represents a key milestone in my frontend development journey, moving from foundational vanilla JavaScript into building dynamic user interfaces with the React framework.
 
 ## Live Demo
-Check out the live deployment on Vercel: [Live Application Link](https://habit-tracker-pro-ten.vercel.app/)
+Check out the live deployment on Vercel: [Live Application Link](https://habit-tracker-pro-5mqx.vercel.app/login)
 
 
 ##  Features
